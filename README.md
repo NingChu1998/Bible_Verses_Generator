@@ -8,10 +8,10 @@
 [Codepen Demo](https://codepen.io/ningchu1998/full/xxXzeEq)
 
 ##  Features
-- Load a new verse on a button 'New Verse" click
-- Convert the verse to speech
-- Copy the verse on clipboard
-- Share a quote on Twitter 
+- Load a new verse on the button "New Verse" click
+- Convert the verse to speech by clicking the given button
+- Copy the verse on clipboard by clicking the given button
+- Share a quote on Twitter by clicking the given button
 - Fetching the data of random bibe verse in JSON format from the [bible.org API](https://labs.bible.org/api_web_service) and saving it in a variable
 
 ##  Tech
