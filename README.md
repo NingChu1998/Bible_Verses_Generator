@@ -3,8 +3,10 @@
 ##### Random Bible Verses Generator is an app based on Html,CSS,JavaScript
 ##  Preview
 
-- [Codepen Demo](https://codepen.io/ningchu1998/full/xxXzeEq)
-- 
+![GIF](这里写你图片的链接)
+
+[Codepen Demo](https://codepen.io/ningchu1998/full/xxXzeEq)
+
 ##  Features
 - Load a new quote on a button 'New Verse" click.
 - Convert a verse to speech
